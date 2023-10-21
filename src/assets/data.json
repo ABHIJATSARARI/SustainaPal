@@ -1,0 +1,63 @@
+{
+    "user": {
+      "name": "Rajesh",
+      "location": "Kanpur, Uttar Pradesh, India"
+    },
+    "emissions": [
+      {
+        "month": "January",
+        "total": 450,
+        "sources": [
+          {
+            "name": "Electricity",
+            "value": 200
+          },
+          {
+            "name": "Transportation",
+            "value": 150
+          },
+          {
+            "name": "Food",
+            "value": 100
+          }
+        ]
+      },
+      {
+        "month": "February",
+        "total": 400,
+        "sources": [
+          {
+            "name": "Electricity",
+            "value": 180
+          },
+          {
+            "name": "Transportation",
+            "value": 120
+          },
+          {
+            "name": "Food",
+            "value": 100
+          }
+        ]
+      },
+      {
+        "month": "March",
+        "total": 420,
+        "sources": [
+          {
+            "name": "Electricity",
+            "value": 190
+          },
+          {
+            "name": "Transportation",
+            "value": 130
+          },
+          {
+            "name": "Food",
+            "value": 100
+          }
+        ]
+      }
+    ]
+  }
+  

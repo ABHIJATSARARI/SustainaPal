@@ -1,0 +1,41 @@
+{
+    "userProfile": {
+      "username": "SustainaUser123",
+      "email": "user123@sustainapal.com"
+    },
+    "activityTracking": {
+      "transportation": {
+        "currentChoice": "Carpooling",
+        "alternatives": ["Biking", "Public Transit", "Walking"]
+      },
+      "energyUsage": {
+        "currentChoice": "LED Lights",
+        "alternatives": ["Solar Panels", "Energy-Efficient Appliances", "Natural Light"]
+      }
+    },
+    "climateProjections": {
+      "carbonEmissions": {
+        "currentValue": 5.2,
+        "goalValue": 4.0
+      },
+      "temperatureChange": {
+        "currentValue": 1.5,
+        "goalValue": 1.0
+      }
+    },
+    "progressTracking": {
+      "activitiesCompleted": 23,
+      "carbonSaved": 12.5,
+      "treesPlanted": 5
+    },
+    "gamification": {
+      "challengesCompleted": 7,
+      "rewardsEarned": 3,
+      "achievementsUnlocked": 12
+    },
+    "educationalInsights": {
+      "articlesRead": 10,
+      "videosWatched": 5
+    }
+  }
+  
