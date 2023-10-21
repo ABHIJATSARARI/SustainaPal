@@ -1,6 +1,6 @@
 # SustainaPal
 <p align="center">
-  <img src="https://your-image-link.png" alt="SustainaPal Logo" width="200">
+  <img src="https://github.com/ABHIJATSARARI/SustainaPal/blob/main/src/assets/logo.png" alt="SustainaPal Logo" width="200">
 </p>
 
 # SustainaPal
