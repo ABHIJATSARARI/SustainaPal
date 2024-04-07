@@ -1,4 +1,4 @@
-// src/navigation/ActivityTrackingNavigator.js
+// src/navigation/ActivityTrackingNavigator.js page
 
 import React from 'react';
 import { createStackNavigator } from '@react-navigation/stack';

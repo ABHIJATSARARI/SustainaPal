@@ -1,4 +1,4 @@
-// App.js main activity 
+// App.js main activity page
 
 import React from 'react';
 import { Provider } from 'react-redux';

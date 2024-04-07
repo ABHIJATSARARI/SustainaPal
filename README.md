@@ -7,7 +7,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-SustainaPal is your eco-conscious companion on the journey to a greener, more sustainable future. This innovative mobile application empowers individuals to make sustainable lifestyle choices and combat climate change. This may enforce user's lifestyle with wellbeing and eco.
+SustainaPal is your eco-conscious companion on the journey to a greener and more sustainable future. This innovative mobile application empowers individuals to make sustainable lifestyle choices and combat climate change. This may enforce user's lifestyle with wellbeing and eco.
 
 ## Table of Contents
 

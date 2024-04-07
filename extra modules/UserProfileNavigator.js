@@ -1,4 +1,4 @@
-// src/navigation/UserProfileNavigator.js
+// src/navigation/UserProfileNavigator.js page
 
 import React from 'react';
 import { createStackNavigator } from '@react-navigation/stack';
